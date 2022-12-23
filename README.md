@@ -1,3 +1,7 @@
+Download all onebox-ecommerce folder, then run file depending on enviroment:
+
+
+
 Linux executable script: ONEBOX E-Commerce.sh
 
 
